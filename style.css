@@ -1,0 +1,43 @@
+body{
+    background-color: brown;
+    color: white;
+}
+
+#message{
+    width: 50%;
+    border: 1px solid white;
+    margin: 200px auto; 
+    padding: 25px 25px 25px 25px;
+
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font: 1em;
+    font-family:'Courier New', Courier, monospace;
+    color: #DAA520;
+}
+
+#displaymsg{
+    font-family: cursive;
+    font-weight: bold;
+    color: white;
+}
+
+#generate{
+    border : 1px solid #BC8F8F;
+    border-radius: 5px 5px 5px 5px;
+    padding: 10px 10px 10px 10px;
+    margin-left: 45%;
+    background-color: #BC8F8F;
+    font-weight: bold;
+}
+
+#generate:hover
+{
+    background-color: saddlebrown;
+}
+
